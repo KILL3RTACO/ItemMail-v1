@@ -2,8 +2,7 @@ name: ItemMail
 main: taco.im.ItemMail
 version: 0.3
 author: KILL3RTACO
-description: > 
-               ItemMail v1. Easily send items from inventory to other players.
+description: ItemMail v1. Easily send items from inventory to other players.
 commands:
   im: 
     description: ItemMail commands and version
